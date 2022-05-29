@@ -18,6 +18,12 @@ const Card = () => {
                 LinkedIn
             </a>
         </div>
+        <div className="content-section">
+            <h2>About</h2>
+            <p>
+                I am a full stack developer with expertise particularly in React and AWS(serverless). I'm always keen and willing to learn new technologies and to try out ways to implement the technologies in best way possible.
+            </p>
+        </div>
     </main>
 }
 
